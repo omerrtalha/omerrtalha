@@ -1,0 +1,5 @@
+-  Hi, I’m @omerrtalha
+-  I’m interested in software and 3D design
+-  I’m currently learning python and C++
+-  I don't plan on collaborating right now..
+-  How to reach me omertalha.offical@gmail.com
